@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+google-cloud-storage
+gcsfs
+joblib
